@@ -28,8 +28,6 @@ Resolve Excel file Error with Excel repair software
 
 non tabular layout
 
-dates formatted as text 
-
 formatting whole columns 
 
 formatting to encode data 
