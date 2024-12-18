@@ -12,11 +12,6 @@ Click Save to apply your changes.
 
 # https://www.xda-developers.com/how-customize-windows-11/#how-to-customize-your-windows-11-pc-with-themes
 
-## How to Access Windows 11 Account Settings
-
-Right-click the Start menu and choose Settings, or use the WIN+i keyboard shortcut to get there without a mouse. Then, select Accounts from the menu on the left, and scroll down to the Account settings area
-
-
 ## Taskbar and Start Menu
 
 Centrally Aligned Icons: Unlike the left-aligned taskbar icons in Windows 10, Windows 11 centers these icons, including the Start button.
