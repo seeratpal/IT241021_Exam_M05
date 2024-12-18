@@ -1,24 +1,21 @@
+How to customize your Windows 11 PC with themes -
+
+Right-click an empty area of your desktop and choose Personalize from the context menu.
+
+You can see a few themes at the top of this page. Otherwise, you can click Themes to see all the ones installed on your PC.
+
+Click a theme to choose it. Themes that show a camera icon include rotating images, such as Windows Spotlight.
+
+The buttons at the top of the page let you customize each element of the theme, such as the background image or colors.
+
+Click Save to apply your changes.
+
+# https://www.xda-developers.com/how-customize-windows-11/#how-to-customize-your-windows-11-pc-with-themes
+
 ## How to Access Windows 11 Account Settings
 
 Right-click the Start menu and choose Settings, or use the WIN+i keyboard shortcut to get there without a mouse. Then, select Accounts from the menu on the left, and scroll down to the Account settings area
 
-## What Are the Windows 11 User Account Settings?
-
-Your info
-
-Sign-in options
-
-Email & accounts
-
-Family
-
-Windows backup
-
-Other users
-
-Access work or school
-
-# https://www.lifewire.com/account-settings-guide-windows-11-5341342
 
 ## Taskbar and Start Menu
 
